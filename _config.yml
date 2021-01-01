@@ -1,6 +1,6 @@
 # Site settings
 title: Tedley Meralus
-email: youremailaddress@gmail.com
+email: tmeralus@gmail.com
 description: Linux Engineer and Software Developer
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "meralus.com" # the base hostname & protocol for your site
