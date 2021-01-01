@@ -1,2 +1,2 @@
 # meralus.com
-website for meralus.lcom
+website for [meralus.com](http://meralus.com/)
