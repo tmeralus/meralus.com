@@ -13,30 +13,30 @@ const IndexPage = () => {
           fontWeight: 'bold',
         }}
       >
-        Gatsby Ant Design Docs Boilerplate
+        Tedley Meralus
       </p>
-      <h2>A gatsby starter to create documentation websites</h2>
+      <h2>Linux Engineer and Software Developer</h2>
       <p>
-        This is a fork of{' '}
-        <a href="https://github.com/cvluca/gatsby-starter-markdown">
-          https://github.com/cvluca/gatsby-starter-markdown
+        Work and Contact information can be found on{' '}
+        <a href="https://linkedin.com/in/tmeralus">
+          Linkedin
         </a>
       </p>
       <br />
       <Button.Group size="large">
-        <Button href="https://twitter.com/jannikbuschke" target="_blank">
+        <Button href="https://twitter.com/techgameteddy" target="_blank">
           Twitter
           <TwitterOutlined />
         </Button>
         <Button
-          href="https://github.com/jannikbuschke/gatsby-antd-docs"
+          href="https://github.com/tmeralus"
           target="_blank"
         >
           Github
           <GithubOutlined />
         </Button>
         <Button type="primary">
-          <Link to="/docs/get-started/introduction">Get Started</Link>
+          <Link to="https://blog.meralus.com">Read Blog</Link>
         </Button>
       </Button.Group>
     </div>
