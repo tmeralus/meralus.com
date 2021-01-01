@@ -1,21 +1,17 @@
 # Site settings
-title: Eventually
+title: Tedley Meralus
 email: youremailaddress@gmail.com
-description: A simple template for telling the world when you'll launch your next big thing. Brought to you by HTML5 UP.
-baseurl: "/eventually-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+description: Linux Engineer and Software Developer
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "meralus.com" # the base hostname & protocol for your site
 
-# Social settings
-500px_url:
+# Social settings 
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+github_url: https://github.com/tmeralus
+gitlab_url:
 instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+linkedin_url: https://www.linkedin.com/in/tmeralus
+twitter_url: https://twitter.com/techgameteddy
 
 # Build settings
 markdown: kramdown
