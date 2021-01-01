@@ -92,3 +92,7 @@ module.exports = {
   /// this must match the path your webpage is displayed from
   pathPrefix: process.env.NODE_ENV === 'development' ? '' : '/gatsby-antd-docs',
 }
+
+module.exports = {
+  pathPrefix: "/",
+}
