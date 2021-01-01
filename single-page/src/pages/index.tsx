@@ -17,7 +17,7 @@ const IndexPage = () => {
       </p>
       <h2>Linux Engineer and Software Developer</h2>
       <p>
-        Work and Contact information can be found on{' '}
+        Resume and contact information found on{' '}
         <a href="https://linkedin.com/in/tmeralus">
           Linkedin
         </a>

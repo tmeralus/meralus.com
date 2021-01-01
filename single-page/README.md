@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+Meralus.com: [meralus.com](https://meralus.com)
+
+# Meralus.com 
+=======
 # Meralus.com Site
 ## Gatsby Ant-Design Documentation Starter
 
@@ -13,3 +18,4 @@ Forked from https://github.com/cvluca/gatsby-starter-markdown.
  To edit the site make changes to the index.tsx page located here
 
  cd single-page/src/pages/index.tsx
+>>>>>>> main
