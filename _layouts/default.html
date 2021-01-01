@@ -14,12 +14,12 @@
 	<p>{{ site.description }}</p>
 </header>
 
-<h2> My Blogs</h2>
-<h2> Projects on Github</h2>
-<!-- Signup Form -->
-<form id="signup-form" method="post" action="#">
-	<input type="button" name="email" id="email" placeholder="Email Address" />
-	<input type="submit" value="Github" />
+<form method="get" action="https://blog.meralus.com">
+    <button type="submit">My Blog</button>
+</form>
+
+<form method="get" action="https://github.com/tmeralus">
+    <button type="submit">Projects on Github</button>
 </form>
 
 {% include footer.html %}
