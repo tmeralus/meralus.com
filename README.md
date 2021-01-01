@@ -1,7 +1,9 @@
 # Meralus.com site pointing to Tedley's Blog Portal
 
 
-A Jekyll version of the "Eventually" theme by [HTML5 UP](https://html5up.net/).
+Git repo for website [meralus.com](https://meralus.com).
+
+changes to site should be made in gh-pages branch 
 
 
 # Added Features
