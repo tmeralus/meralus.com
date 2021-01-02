@@ -1,13 +1,7 @@
 # Meralus.com site pointing to Tedley's Blog Portal
 
 
-<<<<<<< HEAD
-Git repo for website [meralus.com](https://meralus.com).
-
-changes to site should be made in gh-pages branch 
-=======
 git repo for [Meralus.com site](https://meralus.com)
->>>>>>> gh-pages
 
 
 
