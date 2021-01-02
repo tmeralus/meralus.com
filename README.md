@@ -1,4 +1,4 @@
-# Meralus.com site pointing to Tedley's Blog Portal
+# Meralus.com 
 
 
 git repo for [Meralus.com site](https://meralus.com)
